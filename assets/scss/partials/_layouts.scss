@@ -1,0 +1,10 @@
+.flexbox {
+
+  &--auto {
+    flex: auto !important;
+  }
+
+  &--none {
+    flex: none !important;
+  }
+}
